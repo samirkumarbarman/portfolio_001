@@ -27,8 +27,6 @@ const Contact = () => {
         </div>
       </form>
       <div class="p-2 w-full pt-8 mt-8 border-t border-gray-200 text-center">
-        <a href="mailto:example@email.com" class="text-indigo-500">example@email.com</a>
-        <p class="mt-2">49 Smith St, Saint Cloud, MN 56301</p>
         <div class="mt-4 flex justify-center space-x-4">
           <a href="#" class="text-gray-500"><i class="fab fa-facebook-f"></i></a>
           <a href="#" class="text-gray-500"><i class="fab fa-twitter"></i></a>

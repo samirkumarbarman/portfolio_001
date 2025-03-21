@@ -3,7 +3,7 @@ import React from "react";
 const Skills = () => {
     return (
         <section class="text-gray-600 body-font">
-  <div class="container px-5 py-24 mx-auto">
+  <div class="container px-5 py-15 mx-auto">
     <div class="text-center mb-20">
       <h1 class="sm:text-3xl text-2xl font-medium text-center title-font text-gray-900 mb-4">Skills</h1>
       <p class="text-base leading-relaxed xl:w-2/4 lg:w-3/4 mx-auto">"I possess strong backend development skills with expertise in Node.js, Express, and MongoDB. I have hands-on experience in building and deploying APIs, implementing task management systems, and handling database structures. Additionally, I am proficient in using tools like Mongoose for schema creation and GitHub Actions for continuous integration. I am also familiar with various concepts of data structures and algorithms, and I continue to explore advanced topics in quantum computing and database management with MongoDB and PostgreSQL."

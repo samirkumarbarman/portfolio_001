@@ -3,14 +3,10 @@ import React from "react";
 const AboutME = () => {
   return (
     <section className="text-gray-600 body-font">
-      <div className="container px-5 py-24 mx-auto flex flex-col">
+      <div className="container px-5 py-15 mx-auto flex flex-col">
         <div className="lg:w-4/6 mx-auto">
-          <div className="rounded-lg h-64 overflow-hidden">
-            <img
-              alt="Backend Development"
-              className="object-cover object-center h-full w-full"
-              src="https://dummyimage.com/1200x500"
-            />
+          <div className="rounded-lg h-10 overflow-hidden">
+          <h1 class="sm:text-3xl text-2xl font-medium text-center title-font text-gray-900 mb-4">About Me</h1>
           </div>
           <div className="flex flex-col sm:flex-row mt-10">
             <div className="sm:w-1/3 text-center sm:pr-8 sm:py-8">
